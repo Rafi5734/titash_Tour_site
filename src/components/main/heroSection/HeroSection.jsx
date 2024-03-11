@@ -19,10 +19,10 @@ const HeroSection = () => {
         // install Swiper modules
 
         spaceBetween={50}
-        //   autoplay={{
-        //     delay: 2500,
-        //     disableOnInteraction: false,
-        //   }}
+          autoplay={{
+            delay: 5500,
+            disableOnInteraction: false,
+          }}
         modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
         slidesPerView={1}
         navigation
