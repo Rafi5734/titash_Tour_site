@@ -112,7 +112,7 @@ const MainNavbar = () => {
                 </svg>
               }
             >
-              01733977556
+              <a href="tel:01733977556">CLICK TO CALL</a>
             </Button>
           </NavbarItem>
         </NavbarContent>
